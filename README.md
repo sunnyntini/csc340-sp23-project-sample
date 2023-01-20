@@ -15,4 +15,4 @@
 upcoming, who they are assigned to, as well as detail progress towards completion.
 
 
-! [Use-Case Diagram] (Use-Case.PNG)
+! ([Use-Case Diagram](https://github.com/sunnyntini/csc340-sp23-project-sample/blob/main/Use-Case.PNG))
