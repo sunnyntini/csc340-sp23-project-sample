@@ -1,2 +1,18 @@
-# csc340-sp23-project-sample
-Some samples of project work
+# Workflow Management System
+
+# Project Proposal
+
+## Title
+
+> Workflow Management System
+
+## WMS
+## Description (100-word minimum)
+
+>Workflow Management System (WMS) is a project management tool. It is designed to
+>be a simple and easy-to-operate platform that can be used by teams to collaborate in a
+>Scrum environment. WMS is freely available to use on the world wide web. Thus, the
+>main objective of this website is to help administrators, managers, and employees
+>manage workflow and assign roles to the designated users.
+> It is designed to track team projects, highlight tasks that are underway or
+upcoming, who they are assigned to, as well as detail progress towards completion.
