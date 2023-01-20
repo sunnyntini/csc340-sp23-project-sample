@@ -13,3 +13,6 @@
 >manage workflow and assign roles to the designated users.
 > It is designed to track team projects, highlight tasks that are underway or
 upcoming, who they are assigned to, as well as detail progress towards completion.
+
+
+!Use-Case Diagram(https://github.com/sunnyntini/csc340-sp23-project-sample/blob/main/use-case.png.jpg?raw=true)
