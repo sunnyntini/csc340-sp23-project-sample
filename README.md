@@ -2,12 +2,10 @@
 
 # Project Proposal
 
-## Title
-
-> Workflow Management System
+## Workflow Management System
 
 ## WMS
-## Description (100-word minimum)
+## Description 
 
 >Workflow Management System (WMS) is a project management tool. It is designed to
 >be a simple and easy-to-operate platform that can be used by teams to collaborate in a
